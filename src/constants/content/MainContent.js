@@ -19,9 +19,7 @@ export const backendConfig = {
   // base: "https://api.bitblock.network/api",
   // origin: "https://api.bitblock.network",
   // base: "http://192.168.3.56:6018/api",
-  // origin: "http://192.168.3.56:6018",
-  base: "http://192.168.1.25:7000/api",
-  origin: "http://192.168.1.25:7000",
-  // base: "https://api.nexoinvest.org/api",
-  // origin: "https://api.nexoinvest.org",
+  // origin: "http://192.168.3.56:6018"
+  base: "https://api.nexoinvest.org/api",
+  origin: "https://api.nexoinvest.org",
 };
